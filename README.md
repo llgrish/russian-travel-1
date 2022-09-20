@@ -12,7 +12,7 @@
 
 **Russian travel**
 
-* [Ссылка на проект russian-travel](https://munalexey.github.io/russian-travel/)
+* [Ссылка на проект russian-travel >](https://munalexey.github.io/russian-travel/)
 
 **Инструменты**
 
